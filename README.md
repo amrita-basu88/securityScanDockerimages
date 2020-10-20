@@ -14,6 +14,8 @@ Don't forget to run docker build which you would like to scan
 
 [docker build - < kafka.dockerfile]
 
+docker id : amritabasu/#amr****
+
 Troubleshooting
 ---------------------------------------------------------------------
 
